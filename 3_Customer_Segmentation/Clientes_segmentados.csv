@@ -1,0 +1,81 @@
+Name,Country,City,CustomerName,Large,Medium,Small,LastPurchaseDate,Recency,Frecuency,Monetary,RecencyScore,FrecuencyScore,MonetaryScore,RFM,RFM2,Cluster
+Peter Ferguson,Australia,Melbourne,"Australian Collectors, Co.",0,15,8,2004-11-29,185,23.0,91222.0,3,4,5,4.0,345,En riesgo
+Janine Labrune,France,Nantes,La Rochelle Gifts,1,28,24,2005-05-31,2,53.0,180124.9,5,5,5,5.0,555,Leales
+Victoria Ashworth,UK,Manchester,"AV Stores, Co.",1,17,17,2004-11-17,197,35.0,106789.89,2,5,5,4.0,255,En riesgo
+Kwai Yu,USA,NYC,Land of Toys Inc.,1,13,13,2004-11-15,199,27.0,92928.02,2,5,5,4.0,255,En riesgo
+Jeff Young,USA,NYC,Muscle Machine Inc,1,11,4,2004-12-01,183,16.0,64958.7,3,3,4,3.33,334,A punto de perderlos
+Giovanni Rovelli,Italy,Bergamo,Rovelli Gifts,0,6,8,2004-11-12,202,14.0,41696.69,2,3,2,2.33,232,A punto de perderlos
+Adrian Huxley,Australia,Chatswood,Souveniers And Things Co.,0,20,18,2005-05-29,4,38.0,123173.72,5,5,5,5.0,555,Leales
+Anna O'Hara,Australia,North Sydney,"Anna's Decorations, Ltd",2,6,11,2005-03-09,85,19.0,65012.42,4,4,4,4.0,444,Nuevas Pasiones
+Eric Natividad,Singapore,Singapore,"Dragon Souveniers, Ltd.",0,2,0,2005-03-02,92,2.0,7303.4800000000005,4,1,1,2.0,411,Nuevos clientes
+Julie Brown,USA,San Francisco,Corporate Gift Ideas Co.,1,7,5,2005-02-23,99,13.0,54203.619999999995,4,2,3,3.0,423,Nuevas Pasiones
+Paul Henriot,France,Reims,Reims Collectables,0,16,16,2005-03-30,64,32.0,100924.66,4,5,5,4.67,455,Leales
+Sue Frick,USA,San Jose,The Sharp Gifts Warehouse,5,11,10,2005-04-22,41,26.0,111538.03,5,5,5,5.0,555,Leales
+Georg Pipps,Austria,Salzburg,Salzburg Collectables,4,16,6,2005-05-17,16,26.0,111169.48999999999,5,5,5,5.0,555,Leales
+Maurizio Moroni,Italy,Reggio Emilia,L'ordine Souveniers,1,10,18,2005-05-10,23,29.0,97931.59,5,5,5,5.0,555,Leales
+Maria Larsson,Sweden,Boras,Scandinavian Gift Ideas,1,12,9,2005-03-03,91,22.0,85548.41,4,4,4,4.0,444,Nuevas Pasiones
+Wendy Victorino,Singapore,Singapore,Handji Gifts& Co,0,13,16,2005-04-23,40,29.0,91279.14,5,5,5,5.0,555,Leales
+Jytte Petersen,Denmark,Kobenhavn,Danish Wholesale Imports,3,6,4,2005-04-15,48,13.0,54840.93,5,2,3,3.33,523,Nuevas Pasiones
+Wing C Tam,USA,New Bedford,Mini Creations Ltd.,0,2,1,2005-01-07,146,3.0,11021.3,3,1,1,1.67,311,Bajo valor
+Valarie Young,USA,Nashua,Online Diecast Creations Co.,1,6,7,2004-11-04,210,14.0,55570.6,2,3,3,2.67,233,A punto de perderlos
+Juri Hirano,USA,Burlingame,Technics Stores Inc.,0,3,2,2005-01-05,148,5.0,16445.77,3,1,1,1.67,311,Bajo valor
+Pirkko Koskitalo,Finland,Oulu,"Oulu Toy Supplies, Inc.",0,7,10,2005-01-31,122,17.0,49055.4,3,4,3,3.33,343,Nuevas Pasiones
+Mart¡n Sommer,Spain,Madrid,"Corrida Auto Replicas, Ltd",1,4,3,2004-11-01,213,8.0,34546.6,2,2,2,2.0,222,Bajo valor
+Akiko Shimamura,Japan,Minato-ku,"Tokyo Collectables, Ltd",3,13,16,2005-04-22,41,32.0,120562.74,5,5,5,5.0,555,Leales
+Jonas Bergulfsen,Norway,Stavern,Baane Mini Imports,1,8,6,2004-11-05,209,15.0,60422.53,2,3,4,3.0,234,A punto de perderlos
+Kyung Yu,USA,Allentown,Diecast Classics Inc.,4,12,15,2005-05-30,3,31.0,122138.14,5,5,5,5.0,555,Leales
+Michael Holz,Switzerland,Gensve,"Vida Sport, Ltd",0,13,4,2004-08-30,276,17.0,67281.01,1,4,4,3.0,144,A punto de perderlos
+Kalle Suominen,Finland,Espoo,Suominen Souveniers,0,7,8,2005-01-06,147,15.0,51373.49,3,3,3,3.0,333,Nuevas Pasiones
+Matti Karttunen,Finland,Helsinki,"Toys of Finland, Co.",2,8,7,2005-02-09,113,17.0,69166.88,4,4,4,4.0,444,Nuevas Pasiones
+Julie Young,USA,Pasadena,Toys4GrownUps.com,1,6,6,2005-01-12,141,13.0,44273.36,3,3,3,3.0,333,Nuevas Pasiones
+Sue King,USA,Las Vegas,Signal Gift Stores,0,7,9,2004-11-29,185,16.0,48903.46,3,4,3,3.33,343,A punto de perderlos
+Elizabeth Devon,UK,Liverpool,"UK Collectables, Ltd.",2,2,5,2005-04-08,55,9.0,40802.81,4,2,2,2.67,422,Nuevos clientes
+Veysel Oeztan,Norway,Bergen,Herkku Gifts,1,1,2,2004-09-03,272,4.0,16363.1,1,1,1,1.0,111,Bajo valor
+Marta Hernandez,USA,Cambridge,Marta's Replicas Co.,1,16,10,2004-10-13,232,27.0,103080.38,1,5,5,3.67,155,En riesgo
+Dominique Perrier,France,Paris,Auto Canal Petit,0,3,0,2005-04-07,56,3.0,14066.8,4,1,1,2.0,411,Nuevos clientes
+Palle Ibsen,Denmark,Aaarhus,Heintze Collectables,1,7,7,2004-10-22,223,15.0,60273.94,1,3,4,2.67,134,A punto de perderlos
+Paolo Accorti,Italy,Torino,Amica Models & Co.,3,10,13,2004-09-09,266,26.0,94117.26,1,5,5,3.67,155,En riesgo
+Ann Brown,UK,London,"Stylish Desk Decors, Co.",0,2,3,2004-12-03,181,5.0,13739.9,3,1,1,1.67,311,Bajo valor
+Violeta Benitez,USA,New Bedford,FunGiftIdeas.com,2,11,10,2005-03-03,91,23.0,87062.04000000001,4,4,4,4.0,444,Nuevas Pasiones
+Henriette Pfalzheim,Germany,Koln,"Toms Spezialitten, Ltd",1,9,7,2004-10-16,229,17.0,68943.4,1,4,4,3.0,144,A punto de perderlos
+Elizabeth Lincoln,Canada,Tsawassen,"Royal Canadian Collectables, Ltd.",0,7,7,2004-08-20,286,14.0,43332.35,1,3,3,2.33,133,A punto de perderlos
+Arnold Cruz,Philippines,Makati City,Cruz & Sons Co.,0,3,1,2004-11-16,198,4.0,15928.75,2,1,1,1.33,211,Bajo valor
+Steve Frick,USA,White Plains,Mini Classics,0,8,8,2004-10-15,230,16.0,46873.04,1,4,3,2.67,143,A punto de perderlos
+Juri Yoshido,USA,Boston,Gifts4AllAges.com,0,15,11,2005-05-06,27,26.0,83209.88,5,5,4,4.67,554,Leales
+Helen Bennett,UK,Cowes,giftsbymail.co.uk,0,7,11,2004-11-01,213,18.0,51334.16,2,4,3,3.0,243,A punto de perderlos
+Julie King,USA,Bridgewater,Gift Depot Inc.,3,8,6,2005-05-05,28,17.0,75778.99,5,4,4,4.33,544,Nuevas Pasiones
+Catherine Dewey,Belgium,Bruxelles,Petit Auto,0,7,13,2005-05-30,3,20.0,56172.43,5,4,3,4.0,543,Nuevas Pasiones
+Laurence Lebihan,France,Marseille,Marseille Mini Autos,1,1,6,2005-01-06,147,8.0,22454.3,3,2,2,2.33,322,Bajo valor
+Michael Frick,USA,NYC,Vitachrome Inc.,2,7,5,2004-11-05,209,14.0,56372.87,2,3,3,2.67,233,A punto de perderlos
+Jan Klaeboe,Norway,Oslo,"Norway Gifts By Mail, Co.",0,3,10,2004-08-21,285,13.0,34145.47,1,3,2,2.0,132,A punto de perderlos
+Allen Nelson,USA,Brickhaven,Collectables For Less Inc.,1,6,6,2005-01-20,133,13.0,46585.58,3,3,3,3.0,333,Nuevas Pasiones
+Marie Bertrand,France,Paris,"La Corne D'abondance, Co.",2,7,4,2004-11-20,194,13.0,58986.27,2,3,4,3.0,234,A punto de perderlos
+Sean Connery,Australia,Glen Waverly,"Australian Collectables, Ltd",1,3,3,2005-05-09,24,7.0,26712.91,5,2,2,3.0,522,Nuevos clientes
+Eduardo Saavedra,Spain,Barcelona,Enaco Distributors,0,5,3,2004-11-24,190,8.0,30183.35,3,2,2,2.33,322,Bajo valor
+Rosa Hernandez,USA,Philadelphia,Motor Mint Distributors Inc.,0,10,4,2004-11-17,197,14.0,48996.1,2,3,3,2.67,233,A punto de perderlos
+Roland Keitel,Germany,Frankfurt,"Blauer See Auto, Co.",0,2,0,2004-11-05,209,2.0,9214.970000000001,2,1,1,1.33,211,Bajo valor
+Yoshi Tannamuri,Canada,Vancouver,Canadian Gift Exchange Network,0,4,7,2004-10-22,223,11.0,36576.71,1,2,2,1.67,122,A punto de perderlos
+Jean Fresnisre,Canada,Montreal,Quebec Home Shopping Network,0,10,8,2005-05-01,32,18.0,58257.5,5,4,4,4.33,544,Nuevas Pasiones
+William Brown,USA,Newark,Tekni Collectables Inc.,2,6,4,2005-04-03,60,12.0,46519.0,4,2,3,3.0,423,Nuevas Pasiones
+Francisca Cervantes,USA,Philadelphia,"Classic Gift Ideas, Inc",1,2,6,2004-10-14,231,9.0,27445.31,1,2,2,1.67,122,Bajo valor
+Julie Murphy,USA,San Francisco,Mini Wheels Co.,1,3,4,2004-11-18,196,8.0,30348.72,2,2,2,2.0,222,Bajo valor
+Annette Roulet,France,Toulouse,Alpha Cognac,0,2,3,2005-03-28,66,5.0,15139.12,4,1,1,2.0,411,Nuevos clientes
+Maria Hernandez,USA,NYC,Classic Legends Inc.,0,3,6,2004-11-21,193,9.0,27733.04,2,2,2,2.0,222,Bajo valor
+Daniel Da Cunha,France,Paris,Lyon Souveniers,2,6,5,2005-03-17,77,13.0,52945.46,4,3,3,3.33,433,Nuevas Pasiones
+Frederique Citeaux,France,Strasbourg,Mini Caravy,3,2,2,2005-04-14,49,7.0,41097.25,4,2,2,2.67,422,Nuevos clientes
+Christina Berglund,Sweden,Lule,"Volvo Model Replicas, Co",0,11,6,2004-11-19,195,17.0,66005.88,2,4,4,3.33,244,A punto de perderlos
+Dan Lewis,USA,Glendale,Gift Ideas Corp.,0,7,2,2004-12-04,180,9.0,29343.35,3,2,2,2.33,322,Bajo valor
+Daniel Tonini,France,Versailles,Auto Assoc. & Cie.,1,8,8,2004-10-11,234,17.0,59074.9,1,4,4,3.0,144,A punto de perderlos
+Dean Cassidy,Ireland,Dublin,"Clover Collections, Co.",0,2,5,2004-09-16,259,7.0,18971.96,1,2,1,1.33,121,Bajo valor
+Roland Mendel,Austria,Graz,Mini Auto Werke,0,1,2,2005-03-10,84,3.0,8775.16,4,1,1,2.0,411,Nuevos clientes
+Miguel Barajas,USA,Brickhaven,Online Mini Collectables,1,9,5,2004-09-10,265,15.0,57197.96,1,3,4,2.67,134,A punto de perderlos
+Tony Calaghan,Australia,South Brisbane,"Australian Gift Network, Co",0,4,2,2005-02-02,120,6.0,21730.03,4,1,1,2.0,411,Nuevos clientes
+Jose Pedro Roel,Spain,Sevilla,"Iberia Gift Imports, Corp.",0,0,2,2004-10-06,239,2.0,3220.88,1,1,1,1.0,111,Bajo valor
+Michael Donnermeyer,Germany,Munich,"Bavarian Collectables Imports, Co.",0,4,10,2004-09-15,260,14.0,34993.92,1,3,2,2.0,132,A punto de perderlos
+Kee Kuo,USA,NYC,Microscale Inc.,1,4,4,2004-11-03,211,9.0,31446.15,2,2,2,2.0,222,Bajo valor
+Leslie Taylor,USA,Brickhaven,Auto-Moto Classics Inc.,0,2,4,2004-12-03,181,6.0,19201.91,3,1,1,1.67,311,Bajo valor
+Pascale Cartrain,Belgium,Charleroi,Royale Belge,0,5,1,2005-01-10,143,6.0,30091.64,3,1,2,2.0,312,Bajo valor
+Carine Schmitt,France,Nantes,Atelier graphique,0,1,2,2004-11-25,189,3.0,7619.66,3,1,1,1.67,311,Bajo valor
+Leslie Young,USA,Glendale,Boards & Toys Co.,0,1,0,2005-02-08,114,1.0,3987.2,4,1,1,2.0,411,Nuevos clientes
+Diego Freyre,Spain,Madrid,Euro Shopping Channel,7,77,79,2005-05-31,2,163.0,567255.97,5,5,5,5.0,555,Campeones
+Valarie Nelson,USA,San Rafael,Mini Gifts Distributors Ltd.,7,61,44,2005-05-29,4,112.0,420807.17,5,5,5,5.0,555,Campeones
