@@ -13,7 +13,8 @@ La segmentación de clientes es esencial para una empresa ya que aumenta los ing
 
 ![Segmentación de clientes](img/segmentation.png)
 
-Todo el procedimiento se encuentra detallado en el Jupyter Notebook. En este fichero solamente se plasman los puntos más destacados de la investigación.
+Todo el procedimiento se encuentra detallado en el Jupyter Notebook. En este fichero solamente se plasman los puntos más destacados de la investigación. En el siguiente enlace aparecen los gráficos construidos con **plotly**.
+(https://nbviewer.org/github/Ferricty/NataSquad-AI-Hackathon/blob/main/3_Customer_Segmentation/Problema%203%20Segmentaci%C3%B3n%20de%20clientes.ipynb)
 
 Se estará trabajando con el dataset `sales_data_sample.csv` el cual contiene:
 
